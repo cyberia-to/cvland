@@ -19,3 +19,5 @@ supply:: next-month
 	- can be harvested multiple times every 28-35 days
 	- ability to regrow after cutting makes it a valuable crop for multiple harvests per year over several years
 	- under ideal conditions can be productive for 3-5 years or more
+- [[salad]]: amazing source
+-

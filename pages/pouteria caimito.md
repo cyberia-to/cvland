@@ -7,4 +7,3 @@ alias:: abiu, abio, caimito
 - [wiki](https://en.wikipedia.org/wiki/Pouteria_caimito)
 - [tokopedia](https://www.tokopedia.com/dreamgarden/bibit-sawo-abiu-pouteria-caimito-rasa-karamel-dan-gurih?extParam=ivf%3Dfalse%26src%3Dsearch)
 -
--

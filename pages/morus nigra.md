@@ -5,8 +5,8 @@ supply:: no
 margin:: high
 autonomy:: staple
 
-- best staple for [[salads]] from young [[leave]]
-- ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmeFcaMSdE1HgnmEn6VUgfqyMjqWqLhXHd29Bb3t4vYP19)
+- best staple for [[salad]] from young [[leave]]
+- ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmeFcaMSdE1HgnmEn6VUgfqyMjqWqLhXHd29Bb3t4vYP19){:height 266, :width 388}
 - products
 	- [[fruit]]
 - propogations
