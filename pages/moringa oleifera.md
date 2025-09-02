@@ -31,7 +31,7 @@ wood-density::
 	- [[bark]]: smooth and light-colored [[medicine]]
 		- [[tannins]]
 		- [[saponins]]
-	- [[leave]]: amazing for [[salads]]
+	- [[leave]]: amazing for [[salad]]
 		- [[proteins]]
 		- [[vitamins A]]
 		- [[vitamin C]]
